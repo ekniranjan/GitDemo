@@ -14,6 +14,7 @@ public class SampleClass {
 		System.out.println("Add");
 	}
 
+
 	private void login() {
 		System.out.println("login");
 	}
@@ -26,5 +27,20 @@ public class SampleClass {
 	private void css() {
 		System.out.println("css	");
 	}
+	private void Java() {
+		System.out.println("Java");
+	}
 
+	private void Lwc() {
+		System.out.println("Lwc");
+
+	}
+
+	private void apex() {
+		System.out.println("apex");
+	}
+
+	private void sfdc() {
+		System.out.println("sfdc");
+	}
 }
