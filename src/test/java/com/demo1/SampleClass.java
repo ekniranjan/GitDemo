@@ -13,6 +13,20 @@ public class SampleClass {
 	private void mul() {
 		System.out.println("Add");
 	}
+
+
+	private void login() {
+		System.out.println("login");
+	}
+
+	private void design() {
+		System.out.println("design");
+
+	}
+
+	private void css() {
+		System.out.println("css	");
+	}
 	private void Java() {
 		System.out.println("Java");
 	}
